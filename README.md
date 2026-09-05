@@ -59,7 +59,7 @@ The report records interrupt-based vibration monitoring, buzzer alerts, distance
 
 ## AI & Intelligent Safety
 
-Experimental prototype workflows explore hazard classification, collision avoidance, fire detection and evacuation prompts, an AI-assisted voice interface, gravity-control decision support, and telemetry monitoring. Project materials reference PictoBlox, machine-learning extensions, camera classification, text-to-speech, speech recognition, and a ChatGPT API integration concept. These are demonstrations, not certified autonomous safety systems.
+Experimental prototype workflows explore hazard classification, collision avoidance, fire detection and evacuation prompts, an AI-assisted voice interface, gravity-control decision support, and telemetry monitoring. camera classification, text-to-speech, speech recognition, and a ChatGPT API integration concept. These are demonstrations, not certified autonomous safety systems.
 
 ## Mission Control Interface
 

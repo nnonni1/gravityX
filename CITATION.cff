@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use the archived GravityX research materials, please cite the Zenodo record."
+title: "Integrated Electromagnetic Energy Recovery and Artificial Gravity Architecture for Rotating Space Habitats"
+type: article
+authors:
+  - family-names: "Alduhaim"
+    given-names: "Afnan Ahmed"
+    orcid: "https://orcid.org/0009-0009-2104-8816"
+date-released: 2026-01-30
+doi: "10.5281/zenodo.18435337"
+url: "https://doi.org/10.5281/zenodo.18435337"

@@ -66,7 +66,7 @@ Experimental prototype workflows explore hazard classification, collision avoida
 The browser prototypes cover **Mission Control**, **Tracking**, **Hazards**, and **Transition Chamber**, communicating rotational state, alerts, simulated telemetry, transition operations, and representative commands.
 
 - [Primary dashboard](index.html)
-- [Alternate dashboard](gravityx_dashboard.html)
+
 
 Browser-generated values are interface demonstrations, not live mission telemetry.
 

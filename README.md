@@ -1,6 +1,6 @@
 # GravityX
 
-<img width="1355" height="1160" alt="ChatGPT Image 5 سبتمبر 2026، 07_25_09 م" src="https://github.com/user-attachments/assets/501fa63a-0a5f-4ed0-8a8d-cd434eec9e89" />
+<img width="1355" height="1160" alt="GravityX Engineering Prototype — VEX, Arduino and Rotating Habitat Concept" src="https://github.com/user-attachments/assets/501fa63a-0a5f-4ed0-8a8d-cd434eec9e89" />
 
 
 **Rotating Space Habitat — Artificial Gravity, Intelligent Control & Hybrid Electromagnetic Energy System**

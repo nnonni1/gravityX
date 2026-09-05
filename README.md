@@ -59,7 +59,7 @@ The report records interrupt-based vibration monitoring, buzzer alerts, distance
 
 ## AI & Intelligent Safety
 
-Experimental prototype workflows explore hazard classification, collision avoidance, fire detection and evacuation prompts, an AI-assisted voice interface, gravity-control decision support, and telemetry monitoring. camera classification, text-to-speech, speech recognition, and a ChatGPT API integration concept. These are demonstrations, not certified autonomous safety systems.
+Experimental prototype workflows explore hazard classification, collision avoidance, fire detection and evacuation prompts, AI-assisted voice interaction, gravity-control decision support, camera-based classification, and telemetry monitoring. These functions represent experimental prototype demonstrations and are not certified autonomous safety systems.
 
 ## Mission Control Interface
 
@@ -136,7 +136,7 @@ docs/                    Report, methodology, architecture
 simulation/              Reproducible Python reconstruction
 src/embedded/            Recoverable prototype firmware
 index.html               Mission-control interface prototype
-gravityx_dashboard.html  Alternate interface prototype
+
 ```
 
 ## Running the Simulation
